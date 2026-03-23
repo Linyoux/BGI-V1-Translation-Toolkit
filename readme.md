@@ -106,3 +106,14 @@ ProjectRoot/
 
 - 原始工具开发：[xupefei/BGIKit](https://github.com/xupefei/BGIKit)
 - GARbro：[GARbro](https://github.com/crskycode/GARbro)
+
+---
+
+## 免责声明与推荐工具 (Disclaimer & Recommended Tools)
+
+本项目涉及的 Molebox 等早期第三方打包工具属已停止维护的废弃软件（Abandonware），仅供兼容性研究与本地化学习，**严禁用于任何商业盈利、破解或侵权活动**。
+
+**💡 推荐替代方案：**
+考虑到老旧工具的系统兼容性及潜在版权隐患，在实际的文件打包环节，强烈建议大家使用免费且强大的现代虚拟化工具：**[Enigma Virtual Box](https://www.enigmaprotector.com/cn/downloads.html)**。
+
+> *Disclaimer: Legacy binary tools like Molebox included here are abandonware, provided strictly for non-commercial study and retro engine research. For actual packaging, we highly recommend using the freeware **[Enigma Virtual Box](https://www.enigmaprotector.com/cn/downloads.html)** as a modern alternative.*
